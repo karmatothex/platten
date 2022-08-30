@@ -3,9 +3,11 @@
 
 | Interpret        | Platte           |   |
 | ------------- |-------------| :-----:|
+| 80s Techno Tracks      | Vinyl Edition 1 |  ✅ |
 | A$AP Rocky      | Long Live A$AP |  ☐ |
 | A Tribe Called Quest      | Low End Theory |  ☐ |
 | Beatles      | A Collection Of Beatles |  ✅ |
+| Bueno Vista Social Club      | Bueno Vista Social Club 25th Anniversary Edition |  ✅ |
 | Chopin      | ? |  ☐ |
 | Daft Punk      | Discovery |  ☐ |
 | Daft Punk      | Random Access Memories |  ✅ |
@@ -39,7 +41,7 @@
 | Sublime      | Sublime |  ☐ |
 | Tereza      | Baduology |  ✅ |
 | Ton Steine Scherben      | Warum geht es mir so dreckig? |  ✅ |
-| The Doors      | The Doors |  ☐ |
+| The Doors      | The Doors |  ✅ |
 | The Doors      | L.A. Woman |  ✅ |
 | The Notorious BIG      | Ready To Die |  ✅ |
 | The Smashing Pumpkins      | Mellon Collie and the Infinite Sadnes |  ☐ |
