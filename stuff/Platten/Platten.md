@@ -6,7 +6,9 @@
 | 80s Techno Tracks      | Vinyl Edition 1 |  ✅ |
 | A$AP Rocky      | Long Live A$AP |  ☐ |
 | A Tribe Called Quest      | Low End Theory |  ☐ |
+| Ariana Grande | Sweetener |  ✅ |
 | Beatles      | A Collection Of Beatles |  ✅ |
+| Billy Talent      | Billy Talent II |  ☐ |
 | Bueno Vista Social Club      | Bueno Vista Social Club 25th Anniversary Edition |  ✅ |
 | Chopin      | ? |  ☐ |
 | Daft Punk      | Discovery |  ☐ |
@@ -18,8 +20,10 @@
 | Falco      | Wienerblut |  ☐ |
 | Funkadelic      | Maggot Brain |  ☐ |
 | Guardions Of The Galaxy      | Awesome Mix Vol. 1 |  ✅ |
+| Herbert Grönemeyer | Bochum |  ✅ |
 | James Brown      | Live At The Apollo |  ✅ |
 | John Lennon      | Double Fantasy |  ✅ |
+| Johnny Cash      | American IV: The Man Comes Around |  ☐ 
 | Joni Mitchell      | Hejira |  ✅ |
 | Jimi Hendrix      | Experience Hendrix: The Best of Jimi Hendrix |  ☐ |
 | Jimi Hendrix      | axis: bold as love |  ✅ |
@@ -28,6 +32,7 @@
 | King Gizzard & The Lizard Wizard      | Live in San Francisco |  ✅ |
 | King Gizzard & The Lizard Wizard      | Polygondwanaland |  ☐ |
 | Kraftwerk      | The Man Machine |  ☐ |
+| Lana Del Rey      | Born To Die (Paradise Edition) |  ☐ |
 | Lou Reed      | Coney Island Baby |  ✅ |
 | Mac Demarco      | Another One |  ✅ |
 | Manu Chao      | Clandestinoe |  ☐ |
@@ -35,6 +40,7 @@
 | Pixies      | Doolittle |  ✅ |
 | Roky Erickson      | Gremlins Have Pictures |  ✅ |
 | Roger Chapman      | Roger Chapman |  ✅ |
+| Run-D.M.C.      | Run-D.M.C. |  ☐ |
 | Simon & Garfunkel      | Sounds of Silence |  ✅ |
 | Souls of Mischief      | 93 'Til Infinity |  ☐ |
 | Steve Wonder      | Innervisions |  ✅ |
