@@ -9,6 +9,8 @@
 | Ariana Grande | Sweetener |  ✅ |
 | Beatles      | A Collection Of Beatles |  ✅ |
 | Billy Talent      | Billy Talent II |  ☐ |
+| Bob Dylan      | Desire |  ☐ |
+| Bob Dylan      | Highway 61 Revisited |  ☐ |
 | Bueno Vista Social Club      | Bueno Vista Social Club 25th Anniversary Edition |  ✅ |
 | Chopin      | ? |  ☐ |
 | Daft Punk      | Discovery |  ☐ |
@@ -19,11 +21,15 @@
 | Falco      | Falco III |  ☐ |
 | Falco      | Wienerblut |  ☐ |
 | Funkadelic      | Maggot Brain |  ☐ |
+| Gorillaz      | Deamon Days |  ☐ |
+| Gorillaz      | Gorillaz |  ☐ |
+| Gorillaz      | Plasttic Beach |  ☐ |
 | Guardions Of The Galaxy      | Awesome Mix Vol. 1 |  ✅ |
 | Herbert Grönemeyer | Bochum |  ✅ |
 | James Brown      | Live At The Apollo |  ✅ |
 | John Lennon      | Double Fantasy |  ✅ |
 | Johnny Cash      | American IV: The Man Comes Around |  ☐ 
+| Johnny Cash      | At Folsom Prison |  ☐ 
 | Joni Mitchell      | Hejira |  ✅ |
 | Jimi Hendrix      | Experience Hendrix: The Best of Jimi Hendrix |  ☐ |
 | Jimi Hendrix      | axis: bold as love |  ✅ |
@@ -38,6 +44,7 @@
 | Manu Chao      | Clandestinoe |  ☐ |
 | Nas      | Illmatic |  ☐ |
 | Pixies      | Doolittle |  ✅ |
+| Rage Against the Machine      | Rage Against the Machine |  ☐ |
 | Roky Erickson      | Gremlins Have Pictures |  ✅ |
 | Roger Chapman      | Roger Chapman |  ✅ |
 | Run-D.M.C.      | Run-D.M.C. |  ☐ |
@@ -52,6 +59,7 @@
 | The Notorious BIG      | Ready To Die |  ✅ |
 | The Smashing Pumpkins      | Mellon Collie and the Infinite Sadnes |  ☐ |
 | The Rolling Stones      | Blue & Lonesome |  ✅ |
+| The Sound Defects      | The Iron Horse |  ☐ |
 | The Stooges      | Fun House |  ☐ |
 | The Stooges      | The Stooges |  ☐ |
 
