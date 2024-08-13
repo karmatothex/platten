@@ -65,3 +65,4 @@
 | The Sound Defects                | The Iron Horse                                   |  ☐  |     |
 | The Stooges                      | Fun House                                        |  ☐  |     |
 | The Stooges                      | The Stooges                                      |  ☐  |     |
+| Van Morrison                     | Astral Weeks                                     |  ✅  |     |
